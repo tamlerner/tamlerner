@@ -1,22 +1,22 @@
-# 🌟 A non-dev journey 🌟
+## Bridging Operations, Tech, and Finance   
 
-👋 Hey, I’m Tam – currently on a full-ride at Veris Labs, CYTO, **SheFi**, learning to code a little with **React.js** ⚛️ and **Tailwind CSS** 🎨, because apparently, that's what the cool kids do these days.
+Hi, I’m **Tamara Lerner**, a seasoned professional with a passion for combining technology and finance to create impactful, lasting solutions.  
 
+## 💼 Professional Background  
+I’m the **Chief Operating Officer at CYTO SAS** and **Director of Operations at Veris Labs OÜ**. My expertise lies in:  
+- Leading and optimizing global operations.  
+- Building financial and operational infrastructures for cutting-edge fintech and blockchain projects.  
+- Developing scalable processes that blend innovation and compliance.  
 
-## 💼 Real World Stuff:
-I’m the **Chief of Operations at CYTO** and **Director of Operations at Veris Labs** (aka **Unlockd** and **maxAPY**). Basically, I combine tech and finance to make things that last longer than your average crypto hype cycle.
+## 🔭 Current Focus  
+- **Node.js** and **React.js** – Creating dynamic, user-focused products that bridge functionality and aesthetics.  
+- **Tailwind CSS** – Simplifying UI/UX development for sleek, efficient designs.  
+- Building tools that redefine financial technology and operational efficiency.  
 
+## 🌱 Always Learning  
+- Advanced **JavaScript frameworks** to push the boundaries of product interactivity.  
+- **UI/UX Design Principles** to ensure every user interaction is seamless and intuitive.  
+- Deepening my expertise in **blockchain and crypto-finance**, navigating the balance between innovation and sustainability.  
 
-
-## 🔭 What I’m *Supposedly* Working On:
-- **React.js** – Making things dynamic, because static pages are for people who don’t like fun.
-- **Tailwind CSS** – Trying to make things look pretty while keeping the headache to a minimum.
-
-
-## 🌱 What I’m Still Trying to Learn:
-- **JavaScript frameworks** – because one framework is never enough, apparently.
-- **Advanced CSS and UI/UX** – trying to make things usable *and* good-looking. Spoiler: it's hard.
-- **Blockchain and Fintech** – still figuring out if it’s the future or just a really complicated way to lose money.
-
-## 🚀 Let’s Connect:
-Down to learn something new or collaborate on cool projects - contact me via linkedin [/tamlerner](https://www.linkedin.com/in/tamlerner/)
+## 🚀 Collaboration & Innovation  
+I’m passionate about turning ideas into reality and collaborating on meaningful projects. If you’re interested in connecting, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tamlerner/).  
