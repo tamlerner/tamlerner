@@ -4,7 +4,7 @@ Hi, I’m **Tamara Lerner**, a seasoned professional with a passion for combinin
 
 ## 💼 Professional Background  
 I’m the **Chief Operating Officer at CYTO SAS** and **Director of Operations at Veris Labs OÜ**. My expertise lies in:  
-- Leading and optimizing global operations.  
+- Leading and optimizing global operations.
 - Building financial and operational infrastructures for cutting-edge fintech and blockchain projects.  
 - Developing scalable processes that blend innovation and compliance.  
 
@@ -13,7 +13,7 @@ I’m the **Chief Operating Officer at CYTO SAS** and **Director of Operations a
 - **Tailwind CSS** – Simplifying UI/UX development for sleek, efficient designs.  
 - Building tools that redefine financial technology and operational efficiency.  
 
-## 🌱 Always Learning  
+## 🌱 Sapere Aude / Always Learning
 - Advanced **JavaScript frameworks** to push the boundaries of product interactivity.  
 - **UI/UX Design Principles** to ensure every user interaction is seamless and intuitive.  
 - Deepening my expertise in **blockchain and crypto-finance**, navigating the balance between innovation and sustainability.  
