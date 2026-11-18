@@ -5,12 +5,12 @@
 
 <br>
 
-Hi, I'm **Tam**. I'm Argentine, I've spent 10+ years in big tech, startups and fintech (Google, Dell, TradFi and DeFi), and I like turning messy processes into systems that work. Lately I build small products for the people I care about.
+Hi, I'm **Tam**. I'm Argentine, I've spent 10+ years in big tech, startups and fintech (Google, Dell, TradFi and DeFi), and I like turning messy processes into systems that work. I co-founded **CYTO**, and on the side I build small products for the people I care about.
 
 <table>
   <tr>
     <td><b>Now</b></td>
-    <td>Building <b>Oli</b>, a one-tap "I'm okay" check-in app</td>
+    <td>Growing <a href="https://appcyto.com"><b>CYTO</b></a> · designing <b>Oli</b>, a one-tap "I'm okay" app</td>
   </tr>
   <tr>
     <td><b>Focus</b></td>
@@ -26,7 +26,23 @@ Hi, I'm **Tam**. I'm Argentine, I've spent 10+ years in big tech, startups and f
   </tr>
 </table>
 
-## Featured: Oli
+## Featured: CYTO
+
+<a href="https://appcyto.com">
+  <img src="assets/cyto-hero.svg" alt="CYTO: financial operations and invoice automation for businesses in Angola" width="100%">
+</a>
+
+I'm a co-founder of [CYTO](https://appcyto.com), a platform that takes the paperwork out of running a business in Angola: invoicing, clients, products, payroll and a dashboard, in one place.
+
+- **Invoices as PDFs:** generated to international standards, ready to send
+- **One workspace:** clients, products and payroll next to the invoices they feed
+- **A dashboard with charts:** see the business at a glance
+- **Made for its users:** multi-language interface, light and dark theme, sign in with email or Google
+- **Under the hood:** Next.js 14, TypeScript, Supabase (Postgres with row-level security), Tailwind
+
+[Visit appcyto.com](https://appcyto.com) · [Public repo](https://github.com/tamlerner/cyto-app)
+
+## Also building: Oli
 
 > *Holi, soy Oli.* Tell your people you're okay with one tap.
 
@@ -51,7 +67,6 @@ Oli is for anyone who wants the people they love to stop worrying: family, frien
 
 | Project | What it is | Stage |
 |---|---|---|
-| [**CYTO**](https://appcyto.com) | Financial operations and invoice automation for businesses in Angola | Co-founder |
 | **DUBA** | A companion robot for older adults, dog-shaped and small-schnauzer-sized. Software first, hardware next | Design stage |
 | **Ojo al Piojo** | A free, 15-minute tap-through course that teaches older adults in Argentina to spot scams | Working prototype |
 | **Orbit** | See your people more, with less planning | Prototype |
