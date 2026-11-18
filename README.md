@@ -44,7 +44,7 @@ I'm a co-founder of [CYTO](https://appcyto.com), a platform that takes the paper
 
 ## Also building: Oli
 
-> *Holi, soy Oli.* A little puppy that tells your people you're okay with one tap.
+> *Holi, soy Oli.* A glass orb that tells your people you're okay with one tap.
 
 Oli is for anyone who wants the people they love to stop worrying: family, friends, long-distance partners, travellers, someone getting home late at night.
 
