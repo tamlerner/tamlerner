@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Tamara Lerner. COO, AI consultant and operations. Product, frontend, workflows and the numbers behind them.">
+<defs><radialGradient id="glow" cx="600" cy="600" r="560" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2F3BB0" stop-opacity="0.45"/><stop offset="1" stop-color="#2F3BB0" stop-opacity="0"/></radialGradient>
+<linearGradient id="logo" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#323A8C"/><stop offset="1" stop-color="#57A654"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.16"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2A3170"/><stop offset="1" stop-color="#3442C8"/></linearGradient>
+<filter id="btn" x="-30%" y="-30%" width="160%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#4A5CF5" flood-opacity="0.35"/></filter>
+<clipPath id="clip"><rect width="1200" height="380" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif"><rect width="1200" height="380" fill="#111313"/><rect width="1200" height="380" fill="url(#glow)"/><text x="600" y="150" text-anchor="middle" font-size="72" font-weight="600" letter-spacing="-2.4" fill="#F5F6F7">Tamara Lerner</text><text x="600" y="214" text-anchor="middle" font-size="30" font-weight="500" letter-spacing="-0.6" fill="#6FCF7C">COO · AI Consultant · Operations</text><text x="600" y="268" text-anchor="middle" font-size="19" fill="#A3A8B0">Product, frontend, workflows and the numbers behind them.</text></g>
+<rect x="0.5" y="0.5" width="1199" height="379" rx="24" fill="none" stroke="rgba(255,255,255,0.08)"/>
+</svg>

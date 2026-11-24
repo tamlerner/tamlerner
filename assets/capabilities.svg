@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="What I do: product; frontend; automation; finance.">
+<defs>
+<linearGradient id="logo" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#323A8C"/><stop offset="1" stop-color="#57A654"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.16"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2A3170"/><stop offset="1" stop-color="#3442C8"/></linearGradient>
+<filter id="btn" x="-30%" y="-30%" width="160%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#4A5CF5" flood-opacity="0.35"/></filter>
+<clipPath id="clip"><rect width="1200" height="170" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif"><rect width="1200" height="170" fill="#111313"/><text x="56" y="78" font-size="22" font-weight="600" letter-spacing="-0.3" fill="#F5F6F7">Product</text><text x="56" y="108" font-size="15.5" fill="#A3A8B0">Roadmaps, specs, shipping</text><rect x="310" y="52" width="1" height="66" fill="rgba(255,255,255,0.08)"/><text x="338" y="78" font-size="22" font-weight="600" letter-spacing="-0.3" fill="#F5F6F7">Frontend</text><text x="338" y="108" font-size="15.5" fill="#A3A8B0">Design systems, React, Next.js</text><rect x="592" y="52" width="1" height="66" fill="rgba(255,255,255,0.08)"/><text x="620" y="78" font-size="22" font-weight="600" letter-spacing="-0.3" fill="#F5F6F7">Automation</text><text x="620" y="108" font-size="15.5" fill="#A3A8B0">n8n, APIs, AI agents</text><rect x="874" y="52" width="1" height="66" fill="rgba(255,255,255,0.08)"/><text x="902" y="78" font-size="22" font-weight="600" letter-spacing="-0.3" fill="#F5F6F7">Finance</text><text x="902" y="108" font-size="15.5" fill="#A3A8B0">Controls, reconciliation, data</text></g>
+<rect x="0.5" y="0.5" width="1199" height="169" rx="24" fill="none" stroke="rgba(255,255,255,0.08)"/>
+</svg>

@@ -1,104 +1,80 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Tamara Lerner: operations, fintech, small products people actually need" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Tamara Lerner. COO, AI consultant and operations. Product, frontend, workflows and the numbers behind them." src="assets/banner.svg" width="100%">
+
+<br><br>
+
+I work where operations, product and money meet. I run roadmaps with engineers, design and ship frontend, automate the manual work, and explain what it all means for cash, controls and the P&L.
+
+Almost a decade across Google, capital markets, DeFi and AI startups. Master's in finance.
 
 <br>
 
-Hi, I'm **Tam**. I'm Argentine, I've spent 10+ years in big tech, startups and fintech (Google, Dell, TradFi and DeFi), and I like turning messy processes into systems that work. I co-founded **CYTO**, and on the side I build small products for the people I care about.
+<img alt="What I do: product; frontend; automation; finance." src="assets/capabilities.svg" width="100%">
 
-<table>
-  <tr>
-    <td><b>Now</b></td>
-    <td>Growing <a href="https://appcyto.com"><b>CYTO</b></a> · designing <b>Oli</b>, a one-tap "I'm okay" app</td>
-  </tr>
-  <tr>
-    <td><b>Focus</b></td>
-    <td>Operations · automation · fintech · tech for older adults</td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Spanish · English · Italian</td>
-  </tr>
-  <tr>
-    <td><b>Find me</b></td>
-    <td><a href="https://www.linkedin.com/in/tamlerner/">LinkedIn</a></td>
-  </tr>
-</table>
+<br><br>
 
-## Featured: CYTO
+## Now
 
-<a href="https://appcyto.com">
-  <img src="assets/cyto-hero.svg" alt="CYTO: financial operations and invoice automation for businesses in Angola" width="100%">
-</a>
+<a href="https://appcyto.com"><img alt="cyto: the app to grow. Invoices, payments and tax in one place for businesses in Angola. Tamara is co-founder and COO." src="assets/cyto.svg" width="100%"></a>
 
-I'm a co-founder of [CYTO](https://appcyto.com), a platform that takes the paperwork out of running a business in Angola: invoicing, clients, products, payroll and a dashboard, in one place.
+<br>
 
-- **Invoices as PDFs:** generated to international standards, ready to send
-- **One workspace:** clients, products and payroll next to the invoices they feed
-- **A dashboard with charts:** see the business at a glance
-- **Made for its users:** multi-language interface, light and dark theme, sign in with email or Google
-- **Under the hood:** Next.js 14, TypeScript, Supabase (Postgres with row-level security), Tailwind
+**CYTO** reads each invoice, checks it against AGT rules and matches it to the bank account. A finance back office for businesses in Angola, not another ERP.
 
-[Visit appcyto.com](https://appcyto.com) · [Public repo](https://github.com/tamlerner/cyto-app)
+- AGT-certified e-invoicing (FE/414/AGT/2026)
+- Used by 50+ companies in Angola
+- Monthly close from 7 days to 1
 
-## Also building: Oli
+As co-founder and COO I own the operating model, product coordination and the design system.
 
-> *Holi, soy Oli.* A glass orb that tells your people you're okay with one tap.
+<br>
 
-Oli is for anyone who wants the people they love to stop worrying: family, friends, long-distance partners, travellers, someone getting home late at night.
+<a href="https://appcyto.com"><img src="https://img.shields.io/badge/appcyto.com_↗-4A5CF5?style=for-the-badge" alt="appcyto.com"></a>
 
-<p align="center">
-  <img src="assets/oli-onboarding.png" alt="Oli onboarding: welcome, one-tap check-in, notifications, safety net, notification permission" width="100%">
-</p>
+<!-- NOTION: replace NOTION_PUBLIC_URL with the published notion.site link, then uncomment
+<br><br>
 
-- **Tap once.** Daily on a schedule, or one-off when you head out.
-- **Your people find out.** Chosen contacts get a notification right away.
-- **They can ask too.** A contact asks "are you okay?" and you answer with one tap, without opening the app.
-- **A safety net, not surveillance.** If you don't check in, Oli reminds you first, then alerts your contacts.
+## Pick my brain
 
-<p align="center">
-  <img src="assets/oli-app.png" alt="Oli app: home, lock-screen notification, group, account" width="100%">
-</p>
+<a href="NOTION_PUBLIC_URL"><img alt="Pick my brain: my work, experiments and ideas on Notion" src="assets/notion.svg" width="380"></a>
+-->
 
-<sub>Status: clickable prototype (about 27 screens, liquid-glass UI, playable onboarding). No backend yet.</sub>
+<br><br>
 
-## Other things I'm working on
+## Before
 
-| Project | What it is | Stage |
-|---|---|---|
-| **DUBA** | A companion robot for older adults, dog-shaped and small-schnauzer-sized. Software first, hardware next | Design stage |
-| **Ojo al Piojo** | A free, 15-minute tap-through course that teaches older adults in Argentina to spot scams | Working prototype |
-| **Orbit** | See your people more, with less planning | Prototype |
-| **Mesa** | Coworking at a neighbour's table: hosts open their home desk for a day | Clickable prototype |
-| [**Lastbook**](https://github.com/tamlerner/lastbook) | Contributing an Argentina region proposal | Open source |
+| | |
+|---|---|
+| **Rootstock Collective** | Director of Operations |
+| **Veris Labs** <sub>acq. by Keyrock</sub> | Director of Operations |
+| **UNION SGR** | Financial research & analysis |
+| **Google** | Financial Analyst, SQL Accounting |
 
-## What I've built
+<br><br>
 
-- Custom API integrations for cross-border financial transactions
-- React dashboards for treasury management and visualization
-- Automated compliance reporting with data validation
-- Invoice generation to international standards
-- Operations workflows and automations in n8n
+## On the side
 
-## Stack
+<details>
+<summary>Small products for people I care about</summary>
+<br>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40">&nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="30">&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="30">&nbsp;
-  <img src="https://img.shields.io/badge/Lovable-FF3E8E?style=for-the-badge" alt="Lovable" height="30">
-</p>
+**Oli**: one tap to tell your people you're okay. Clickable prototype.
 
-## Let's talk
+<img src="assets/oli-onboarding.png" alt="Oli onboarding screens" width="100%">
 
-Working on anything close to these? Applied AI, automation, fintech, aging or loneliness. I'd love to swap notes.
+**DUBA**: a companion robot for older adults. Design stage.<br>
+**[Ojo al Piojo](https://github.com/tamlerner/ojoalpiojo)**: a free anti-scam course for older adults in Argentina.<br>
+**Mesa**: coworking at a neighbour's table. Prototype.<br>
+**[Lastbook](https://github.com/tamlerner/lastbook)**: contributing an Argentina region proposal.
 
-<p>
-  <a href="https://www.linkedin.com/in/tamlerner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+</details>
 
-<p align="center"><i>"Sapere Aude": dare to know. Dare to build.</i></p>
+<br><br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/tamlerner/"><img src="https://img.shields.io/badge/LinkedIn-4A5CF5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:tamlerner@gmail.com"><img src="https://img.shields.io/badge/Email-171A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
+
+<p align="center"><sub>Sapere aude</sub></p>
